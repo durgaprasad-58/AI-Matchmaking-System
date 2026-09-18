@@ -311,5 +311,3 @@ GitHub: [durgaprasad-58](https://github.com/durgaprasad-58)
 ## Disclaimer
 
 This project is developed for educational and demonstration purposes. It uses synthetic data and should not be used to make real-world relationship, psychological, or personal compatibility decisions.
-
-This project is developed for educational and demonstration purposes. It uses synthetic data and should not be used to make real-world relationship, psychological, or personal compatibility decisions.
